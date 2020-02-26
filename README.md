@@ -3,8 +3,9 @@
 * Jupyter "Notebook"
 * Watch the official introduction [Welcome to Colaboratory!](https://colab.research.google.com/notebooks/welcome.ipynb)
   
-## Formal vs natural languages (Ch. 1)
+## What is a program? (Ch. 1)
 
+### Exercies 1-1 (p. 9)
 
 ## Variables, expressions and statements (Ch. 2)
 
