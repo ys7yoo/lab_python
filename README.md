@@ -24,7 +24,7 @@ Course materials for Python using Google Colab
 
 ## Strings (Ch. 8)
 
-## Data structures (CH. 10-13)
+## Data structures (Ch. 10-13)
 
 ### Lists
 ### Dictionaries
