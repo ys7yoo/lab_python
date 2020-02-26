@@ -24,9 +24,9 @@ Course materials for Python using Google Colab
 
 ## Strings (Ch. 8)
 
-## Data structures (Ch. 10-13)
+## Data structures
 
-### Lists
-### Dictionaries
-### Tuples
-### Selecting right data structures
+### Lists (Ch. 10)
+### Dictionaries (Ch. 11)
+### Tuples (Ch. 12)
+### Selecting right data structures (Ch. 13)
