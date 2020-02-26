@@ -1,7 +1,3 @@
-# lab_python
-Course materials for Python programming using Google Colab
-
-
 ## Intro - Python, Notebook, and Colab
 * Why Python?
 * Jupyter "Notebook"
