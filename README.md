@@ -22,7 +22,7 @@ Course materials for Python using Google Colab
 
 ## Algorithms (Ch. 7)
 
-## Strings (Ch. 8)
+## Skipping strings (Ch. 8) and word play (Ch. 9)
 
 ## Data structures
 
