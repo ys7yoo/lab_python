@@ -20,7 +20,7 @@ Course materials for Python using Google Colab
 
 ## More Functions (Ch. 6)
 
-## Iteration (Ch. 7)
+## Algorithms (Ch. 7)
 
 ## Strings (Ch. 8)
 
