@@ -7,7 +7,7 @@
 
 * Exercies 1-1 (p. 9)
 
-## Variables, expressions and statements (Ch. 2)
+## Elements of programming (Ch. 2)
 
 * Exercies 2-1 (p. 18)
 * Exercies 2-2 (p. 19)
