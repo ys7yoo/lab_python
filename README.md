@@ -18,7 +18,7 @@
 * Exercise 3-1 (p. 32)
 * Exercise 3-2 (p. 33)
 
-## Interface design (Ch. 4)
+## Skipping Interface design (Ch. 4)
 
 
 ## Conditionals (Ch. 5)
@@ -31,7 +31,7 @@
 ## Algorithms (Ch. 7)
 
 
-## Skipping strings (Ch. 8) and word play (Ch. 9)
+## Skipping Strings (Ch. 8) and word play (Ch. 9)
 
 
 ## Data structures
