@@ -5,16 +5,18 @@
   
 ## What is a program? (Ch. 1)
 * [slides](http://ai.inu.ac.kr/python/1_program.html)
-* Exercies 1-1 (p. 9)
+* Exercie 1-1 (p. 9)
 
 ## Elements of programming (Ch. 2)
 * [slides](http://ai.inu.ac.kr/python/2_elements.html)
-* Exercies 2-1 (p. 18)
-* Exercies 2-2 (p. 19)
+* Exercie 2-1 (p. 18)
+* Exercie 2-2 (p. 19)
 
 
 ## Functions (Ch. 3)
-
+* [slides](http://ai.inu.ac.kr/python/3_functions.html)
+* Exercise 3-1 (p. 32)
+* Exercise 3-2 (p. 33)
 
 ## Interface design (Ch. 4)
 
