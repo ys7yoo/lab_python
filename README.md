@@ -4,7 +4,7 @@
 * Watch the official introduction [Welcome to Colaboratory!](https://colab.research.google.com/notebooks/welcome.ipynb)
   
 ## What is a program? (Ch. 1)
-* [slides](http://ai.inu.ac.kr/python/1_program.html)
+* [video](http://ok.inu.ac.kr/em/5e7f67e994844), [slides](http://ai.inu.ac.kr/python/1_program.html)
 * Exercie 1-1 (p. 9)
 
 ## Elements of programming (Ch. 2)
