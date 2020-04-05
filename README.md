@@ -11,8 +11,7 @@
 ## Elements of programming (Ch. 2)
 * [video](http://ok.inu.ac.kr/em/5e7f61514cd0c)
 * [slides](http://ai.inu.ac.kr/python/2_elements.html)
-* Exercie 2-1 (p. 18)
-* Exercie 2-2 (p. 19)
+* Exercie 2-1 (p. 18), Exercie 2-2 (p. 19)
 
 
 ## Functions (Ch. 3)
@@ -22,8 +21,7 @@
   [lab 2](http://ok.inu.ac.kr/em/5e88d153f7528),
   [part 3](http://ok.inu.ac.kr/em/5e88e6e117b30)
 * [slides](http://ai.inu.ac.kr/python/3_functions.html)
-* Exercise 3-1 (p. 32)
-* Exercise 3-2 (p. 33)
+* Exercise 3-1 (p. 32), Exercise 3-2 (p. 33)
 
 ## Skipping Interface design (Ch. 4)
 
