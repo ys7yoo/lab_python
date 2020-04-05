@@ -20,7 +20,8 @@
   [lab 1](http://ok.inu.ac.kr/em/5e88ddbbacc4),
   [part 2](http://ok.inu.ac.kr/em/5e88d6efe530d),
   [lab 2](http://ok.inu.ac.kr/em/5e88d153f7528),
-  [part 3](http://ok.inu.ac.kr/em/5e88e6e117b30)
+  [part 3](http://ok.inu.ac.kr/em/5e88e6e117b30),
+  [lab 2](http://ok.inu.ac.kr/em/5e8a3f27e35c)
 * [slides](http://ai.inu.ac.kr/python/3_functions.html)
 * Exercise 3-1 (p. 32), Exercise 3-2 (p. 33)
 
