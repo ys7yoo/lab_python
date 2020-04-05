@@ -15,7 +15,8 @@
 
 
 ## Functions (Ch. 3)
-* [videos part 1](http://ok.inu.ac.kr/em/5e88d1b9e0652),
+
+* [video@YouTube](https://youtu.be/DHUc-RntZbk?list=PLOcV4sV2c9rzW9DlB_VLIzpMmYiiEiwY7), [videos@INU part 1](http://ok.inu.ac.kr/em/5e88d1b9e0652),
   [lab 1](http://ok.inu.ac.kr/em/5e88ddbbacc4),
   [part 2](http://ok.inu.ac.kr/em/5e88d6efe530d),
   [lab 2](http://ok.inu.ac.kr/em/5e88d153f7528),
