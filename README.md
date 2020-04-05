@@ -8,7 +8,7 @@
 * Exercie 1-1 (p. 9)
 
 ## Elements of programming (Ch. 2)
-* [slides](http://ai.inu.ac.kr/python/2_elements.html)
+* [video](http://ok.inu.ac.kr/em/5e7f61514cd0c), [slides](http://ai.inu.ac.kr/python/2_elements.html)
 * Exercie 2-1 (p. 18)
 * Exercie 2-2 (p. 19)
 
