@@ -32,8 +32,7 @@
 * [video@YouTube](https://youtu.be/dlry7YkIMdg?list=PLOcV4sV2c9rzW9DlB_VLIzpMmYiiEiwY7), [videos@INU](http://ok.inu.ac.kr/em/5e9347652f1ba),
   [lab](http://ok.inu.ac.kr/em/5e93573cfa82c),
 * [slides](http://ai.inu.ac.kr/python/4_conditionals.html)
-* Exercise 3-1 (p. 32), Exercise 3-2 (p. 33)
-
+* Exercise 5-2, 5-3
 
 
 ## More Functions (Ch. 6)
