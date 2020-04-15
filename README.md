@@ -35,7 +35,7 @@
 * Exercise 5-2, 5-3
 
 
-## More Functions (Ch. 6)
+## Skipping More Functions (Ch. 6)
 
 
 
