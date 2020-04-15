@@ -42,7 +42,7 @@
 ## Algorithms (Ch. 7)
 
 
-## Skipping Strings (Ch. 8) and word play (Ch. 9)
+## Strings (Ch. 8) and word play (Ch. 9)
 
 
 ## Data structures
